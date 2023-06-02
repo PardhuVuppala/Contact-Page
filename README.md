@@ -25,3 +25,10 @@ libraries and dependencies:
 "react-native-web": "~0.18.11"
 
 
+Installation:
+npx create-expo-app AwesomeProject
+cd AwesomeProject
+npx expo start
+
+Install Andriod Studio
+Create device in virtual device manager for the simulation.
