@@ -1,3 +1,5 @@
+Contact App is APK after installation of the APK, APP will be installed in the name of AwesomeProject in the mobile
+
 Components Used:
 useState: It's a React hook used to define and manage state variables (searchQuery and filteredData) in functional components.
 
